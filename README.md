@@ -1,7 +1,1 @@
-echo "# OralMicrobiome" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/MariaMuletFernandez/OralMicrobiome.git
-git push -u origin main
+Here you can find the scripts developed by the +Pec Proteomics laboratory (IRBLleida, Spain), to clean the peptide data and search for the Leukine/Isoleukine variants and compare those variants with the human proteome.
