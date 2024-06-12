@@ -3,7 +3,7 @@
 Created on Wed Jun 12 10:53:25 2024
 
 This script takes an excel file with the peptides data that we want to search of I/L variants. The excel input should have only
-3 columns: Proteins, the raw peptides and the clean peptides (without any symbol or PTM information, inly the aminoacids). The script will
+3 columns: Proteins, the raw peptides and the clean peptides (without any symbol or PTM information, only the aminoacids). The script will
 take the excel, find for the I/L variants of the peptides, compare them with the human proteome DDB and generate a new excel file with two
 more columns: the variants and if they are or not in the human proteome.
 
